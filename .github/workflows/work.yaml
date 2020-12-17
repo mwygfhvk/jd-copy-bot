@@ -1,7 +1,7 @@
 name: Github JD-sign bot
 
 on:
-    push:
+    push: 
         branches:
             - master
     schedule:
